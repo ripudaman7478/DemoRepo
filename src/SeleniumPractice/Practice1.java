@@ -37,6 +37,7 @@ public class Practice1 {
     
     driver.get("https://book.spicejet.com/Register.aspx");
     Thread.sleep(3000);
+    implicit.wait
     System.out.println("Tittle is ==>"+driver.getTitle());
     
     File src = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -72,7 +73,7 @@ public class Practice1 {
     
     
     
-    //driver.close();
+    driver.close();
     //driver.quit(); // close the browser
     
     
