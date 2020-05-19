@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-04T23:42:00 EDT" name="Suite" finished-at="2020-05-04T23:43:02 EDT" duration-ms="62893">
+    <groups>
+      <group name="Tittle">
+        <method signature="Features.launch()[pri:1, instance:TestNG_Package.Features@4466af20]" name="launch" class="TestNG_Package.Features"/>
+      </group> <!-- Tittle -->
+    </groups>
+    <test started-at="2020-05-04T23:42:00 EDT" name="Test" finished-at="2020-05-04T23:43:02 EDT" duration-ms="62893">
+      <class name="TestNG_Package.Features">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:00 EDT" name="setUp" finished-at="2020-05-04T23:42:07 EDT" duration-ms="7702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link4()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:07 EDT" name="link4" finished-at="2020-05-04T23:42:08 EDT" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:08 EDT" name="teardown" finished-at="2020-05-04T23:42:09 EDT" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:09 EDT" name="setUp" finished-at="2020-05-04T23:42:16 EDT" duration-ms="7420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link4()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:16 EDT" name="link4" finished-at="2020-05-04T23:42:17 EDT" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:17 EDT" name="teardown" finished-at="2020-05-04T23:42:17 EDT" duration-ms="604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:17 EDT" name="setUp" finished-at="2020-05-04T23:42:32 EDT" duration-ms="14467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link4()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:32 EDT" name="link4" finished-at="2020-05-04T23:42:32 EDT" duration-ms="224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:32 EDT" name="teardown" finished-at="2020-05-04T23:42:32 EDT" duration-ms="460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:32 EDT" name="setUp" finished-at="2020-05-04T23:42:39 EDT" duration-ms="6668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link4()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:39 EDT" name="link4" finished-at="2020-05-04T23:42:40 EDT" duration-ms="539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:40 EDT" name="teardown" finished-at="2020-05-04T23:42:42 EDT" duration-ms="2386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:42 EDT" name="setUp" finished-at="2020-05-04T23:42:49 EDT" duration-ms="6809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link4()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:49 EDT" name="link4" finished-at="2020-05-04T23:42:49 EDT" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link4 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:49 EDT" name="teardown" finished-at="2020-05-04T23:42:50 EDT" duration-ms="394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:50 EDT" name="setUp" finished-at="2020-05-04T23:42:56 EDT" duration-ms="5760" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="launch()[pri:1, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:56 EDT" name="launch" finished-at="2020-05-04T23:42:56 EDT" duration-ms="115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:56 EDT" name="teardown" finished-at="2020-05-04T23:42:56 EDT" duration-ms="389" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:42:56 EDT" name="setUp" finished-at="2020-05-04T23:43:02 EDT" duration-ms="5581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="link3()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:43:02 EDT" name="link3" finished-at="2020-05-04T23:43:02 EDT" depends-on-methods="TestNG_Package.Features.launch" duration-ms="552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- link3 -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestNG_Package.Features@4466af20]" started-at="2020-05-04T23:43:02 EDT" name="teardown" finished-at="2020-05-04T23:43:02 EDT" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestNG_Package.Features -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
